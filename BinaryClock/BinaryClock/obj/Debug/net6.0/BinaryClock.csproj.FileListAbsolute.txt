@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\bin\Debug\net6.0\BinaryClock.exe
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\bin\Debug\net6.0\BinaryClock.deps.json
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\bin\Debug\net6.0\BinaryClock.runtimeconfig.json
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\bin\Debug\net6.0\BinaryClock.dll
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\bin\Debug\net6.0\BinaryClock.pdb
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\obj\Debug\net6.0\BinaryClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\obj\Debug\net6.0\BinaryClock.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\obj\Debug\net6.0\BinaryClock.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\obj\Debug\net6.0\BinaryClock.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\obj\Debug\net6.0\BinaryClock.dll
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\obj\Debug\net6.0\refint\BinaryClock.dll
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\obj\Debug\net6.0\BinaryClock.pdb
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\obj\Debug\net6.0\BinaryClock.genruntimeconfig.cache
+C:\Users\Admin\Desktop\BinaryClock\BinaryClock\obj\Debug\net6.0\ref\BinaryClock.dll
